@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuththara2003/Sample_Crud_Back_end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anuththara2003/Sample_Crud_Back_end/issues"
+  },
+  "homepage": "https://github.com/Anuththara2003/Sample_Crud_Back_end#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.103.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "typescript": "^6.0.3"
+  }
 }
